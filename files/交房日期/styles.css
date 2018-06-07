@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:945px;
+  width:960px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,7 +12,29 @@
   position:absolute;
   z-index:0;
 }
-#u4086_div {
+#u4088_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:928px;
+  height:181px;
+}
+#u4088 {
+  position:absolute;
+  left:32px;
+  top:111px;
+  width:928px;
+  height:181px;
+}
+#u4089 {
+  position:absolute;
+  left:2px;
+  top:82px;
+  width:924px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4090_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -26,14 +48,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u4086 {
+#u4090 {
   position:absolute;
   left:7px;
   top:5px;
   width:7px;
   height:40px;
 }
-#u4087 {
+#u4091 {
   position:absolute;
   left:2px;
   top:12px;
@@ -41,7 +63,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u4088_div {
+#u4092_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -57,7 +79,7 @@
   font-size:16px;
   text-align:left;
 }
-#u4088 {
+#u4092 {
   position:absolute;
   left:32px;
   top:5px;
@@ -66,36 +88,14 @@
   font-size:16px;
   text-align:left;
 }
-#u4089 {
+#u4093 {
   position:absolute;
   left:2px;
   top:10px;
   width:306px;
   word-wrap:break-word;
 }
-#u4090_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:913px;
-  height:183px;
-}
-#u4090 {
-  position:absolute;
-  left:32px;
-  top:111px;
-  width:913px;
-  height:183px;
-}
-#u4091 {
-  position:absolute;
-  left:2px;
-  top:84px;
-  width:909px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u4092_div {
+#u4094_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -111,7 +111,7 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u4092 {
+#u4094 {
   position:absolute;
   left:32px;
   top:61px;
@@ -120,17 +120,17 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u4093 {
+#u4095 {
   position:absolute;
   left:2px;
   top:10px;
   width:95px;
   word-wrap:break-word;
 }
-#u4094 {
+#u4096 {
   position:absolute;
-  left:860px;
-  top:147px;
+  left:884px;
+  top:144px;
   width:58px;
   height:140px;
   overflow:hidden;
