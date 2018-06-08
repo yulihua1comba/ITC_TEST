@@ -12,14 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u4547_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1204px;
-  height:925px;
-}
-#u4547 {
+#u4548_img {
   position:absolute;
   left:0px;
   top:0px;
@@ -27,6 +20,13 @@
   height:925px;
 }
 #u4548 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1204px;
+  height:925px;
+}
+#u4549 {
   position:absolute;
   left:2px;
   top:454px;
