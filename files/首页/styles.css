@@ -2436,16 +2436,16 @@
 #u770 {
   position:absolute;
   left:39px;
-  top:198px;
+  top:204px;
   width:488px;
-  height:313px;
+  height:307px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
 #u770_ann {
   position:absolute;
   left:520px;
-  top:194px;
+  top:200px;
   width:1px;
   height:1px;
 }
@@ -2556,6 +2556,13 @@
   height:118px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
+}
+#u779_ann {
+  position:absolute;
+  left:401px;
+  top:875px;
+  width:1px;
+  height:1px;
 }
 #u780_div {
   position:absolute;
