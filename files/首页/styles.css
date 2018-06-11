@@ -2408,6 +2408,13 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u767_ann {
+  position:absolute;
+  left:746px;
+  top:44px;
+  width:1px;
+  height:1px;
+}
 #u768 {
   position:absolute;
   left:753px;
