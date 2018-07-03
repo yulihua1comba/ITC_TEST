@@ -12,79 +12,79 @@
   position:absolute;
   z-index:0;
 }
-#u6010_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:375px;
-  height:667px;
-}
-#u6010 {
-  position:absolute;
-  left:20px;
-  top:20px;
-  width:375px;
-  height:667px;
-}
-#u6011 {
-  position:absolute;
-  left:2px;
-  top:326px;
-  width:371px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u6010_ann {
-  position:absolute;
-  left:388px;
-  top:16px;
-  width:1px;
-  height:1px;
-}
-#u6012_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:375px;
-  height:667px;
-}
-#u6012 {
-  position:absolute;
-  left:20px;
-  top:20px;
-  width:375px;
-  height:667px;
-}
-#u6013 {
-  position:absolute;
-  left:2px;
-  top:326px;
-  width:371px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u6012_ann {
-  position:absolute;
-  left:388px;
-  top:16px;
-  width:1px;
-  height:1px;
-}
 #u6014_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:667px;
+}
+#u6014 {
+  position:absolute;
+  left:20px;
+  top:20px;
+  width:375px;
+  height:667px;
+}
+#u6015 {
+  position:absolute;
+  left:2px;
+  top:326px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u6014_ann {
+  position:absolute;
+  left:388px;
+  top:16px;
+  width:1px;
+  height:1px;
+}
+#u6016_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:667px;
+}
+#u6016 {
+  position:absolute;
+  left:20px;
+  top:20px;
+  width:375px;
+  height:667px;
+}
+#u6017 {
+  position:absolute;
+  left:2px;
+  top:326px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u6016_ann {
+  position:absolute;
+  left:388px;
+  top:16px;
+  width:1px;
+  height:1px;
+}
+#u6018_img {
   position:absolute;
   left:0px;
   top:0px;
   width:63px;
   height:24px;
 }
-#u6014 {
+#u6018 {
   position:absolute;
   left:176px;
   top:258px;
   width:63px;
   height:24px;
 }
-#u6015 {
+#u6019 {
   position:absolute;
   left:2px;
   top:4px;
@@ -92,7 +92,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u6016 {
+#u6020 {
   position:absolute;
   left:29px;
   top:96px;
@@ -101,7 +101,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u6016_ann {
+#u6020_ann {
   position:absolute;
   left:381px;
   top:92px;
